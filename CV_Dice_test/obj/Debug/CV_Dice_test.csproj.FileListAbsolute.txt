@@ -1,0 +1,10 @@
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\bin\Debug\CV_Dice_test.exe.config
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\bin\Debug\CV_Dice_test.exe
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\bin\Debug\CV_Dice_test.pdb
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\bin\Debug\Emgu.CV.dll
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\obj\Debug\CV_Dice_test.csproj.AssemblyReference.cache
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\obj\Debug\CV_Dice_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\obj\Debug\CV_Dice_test.csproj.CoreCompileInputs.cache
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\obj\Debug\CV_Dice_test.csproj.CopyComplete
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\obj\Debug\CV_Dice_test.exe
+C:\Users\nz\source\repos\CV_Dice_test\CV_Dice_test\obj\Debug\CV_Dice_test.pdb

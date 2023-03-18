@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nz\\source\\repos\\CV_Dice_test\\CV_Dice_test\\CV_Dice_test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nz\\source\\repos\\CV_Dice_test\\CV_Dice_test\\CV_Dice_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nz\\source\\repos\\CV_Dice_test\\CV_Dice_test\\CV_Dice_test.csproj",
+        "projectName": "CV_Dice_test",
+        "projectPath": "C:\\Users\\nz\\source\\repos\\CV_Dice_test\\CV_Dice_test\\CV_Dice_test.csproj",
+        "packagesPath": "C:\\Users\\nz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nz\\source\\repos\\CV_Dice_test\\CV_Dice_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\nz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dbscan": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.6.0.5131, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
