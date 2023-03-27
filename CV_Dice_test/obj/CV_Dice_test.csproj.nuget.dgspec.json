@@ -34,17 +34,13 @@
       "frameworks": {
         "net472": {
           "dependencies": {
-            "Dbscan": {
+            "Emgu.CV": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[4.6.0.5131, )"
             },
             "Emgu.CV.runtime.windows": {
               "target": "Package",
               "version": "[4.6.0.5131, )"
-            },
-            "Microsoft.ML": {
-              "target": "Package",
-              "version": "[2.0.1, )"
             }
           }
         }
